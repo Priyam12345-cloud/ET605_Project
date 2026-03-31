@@ -8,6 +8,15 @@ An Intelligent Tutoring System for Grade 7 Data Handling with adaptive assessmen
 
 ## Hosted Site
 - https://et-605-project-chi.vercel.app/
+
+## Screenshots
+
+![Welcome Screen](Images/Screenshot%202026-03-31%20113140.png)
+![Dashboard](Images/Screenshot%202026-03-31%20113342.png)
+![Learning Path](Images/Screenshot%202026-03-31%20163059.png)
+![Assessment](Images/Screenshot%202026-03-31%20163113.png)
+![Analytics](Images/Screenshot%202026-03-31%20163143.png)
+
 ## What This Project Includes
 
 - Concept learning modules aligned to Grade 7 data handling topics
