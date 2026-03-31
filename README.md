@@ -33,6 +33,17 @@ An Intelligent Tutoring System for Grade 7 Data Handling with adaptive assessmen
 4. Build production bundle:
 	npm run build
 
+## Deploy on Vercel
+
+1. Go to https://vercel.com/new
+2. Import `Priyam12345-cloud/ET605_Project`
+3. Set environment variables in Vercel project settings:
+	- `VITE_SUPABASE_URL`
+	- `VITE_SUPABASE_ANON_KEY`
+4. Click Deploy
+
+Vercel configuration is included in `vercel.json` with SPA rewrites enabled.
+
 ## Supabase Setup
 
 1. Open your Supabase project.
