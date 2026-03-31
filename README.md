@@ -15,7 +15,7 @@ An Intelligent Tutoring System for Grade 7 Data Handling with adaptive assessmen
 ![Dashboard](Images/Screenshot%202026-03-31%20113342.png)
 ![Learning Path](Images/Screenshot%202026-03-31%20163059.png)
 ![Assessment](Images/Screenshot%202026-03-31%20163113.png)
-![Analytics](\Images\Screenshot 2026-03-31 163113.png)
+
 
 ## What This Project Includes
 
